@@ -20,7 +20,7 @@
     "react-helmet": "^6.0.0"
   },
   "devDependencies": {
-    "gatsby-source-wordpress": "^3.3.1",
+    "gatsby-source-wordpress": "^4.0.8",
     "gh-pages": "^2.2.0",
     "prettier": "2.0.5"
   },
